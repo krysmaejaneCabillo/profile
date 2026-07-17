@@ -39,8 +39,8 @@ const Contact = () => {
                   Location
                 </h3>
                 <p className="text-green-700 leading-relaxed">
-                  Iligan City, Lanao del Norte<br />
-                  Northern Mindanao, Philippines
+                  Florida Kapalong, Davao del Norte<br />
+                Mindanao, Philippines
                 </p>
               </div>
 
